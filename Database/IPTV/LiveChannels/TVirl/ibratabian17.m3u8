@@ -7,9 +7,24 @@ http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s07/index.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Antv_TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKcp-fgTWRqvnLb5ueat1d2WXkV8pPUYTa1Q&usqp=CAU" group-title="LOKAL",TVONE SD
 http://210.210.155.35:80/qwr9ew/s/s105/index.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Tvone_TV
-#EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="LOKAL",MNCTV HD (SDTV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",MNCTV HD (SDTV)
 https://mkctv.net/belacan/mnctv.m3u8
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/13/3757691816.jpg" group-title="LOKAL",SCTV HD
 http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTlb0XEdRwIrV3G80JLkTJW_dVIAD9IzlkkQ&usqp=CAU" group-title="LOKAL",INDOSIAR HD
-http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHs0FgzdoOSmGs0pgbIDHcvyp84mPQwTNfgdZIZi5VQBai9jeyA-0UJg&s=10" group-title="LOKAL",INDOSIAR HD
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwb1hwHOnA35ML0DeNfT2nB6gw6nCocEJtTw&usqp=CAU" group-title="LOKAL",RTV SD
+http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHPJymZa3fnd4CF2GTvC4Fo_d3bEonZVJOZg&usqp=CAU" group-title="LOKAL",NET. HD
+http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_QlS9yqirbsoC2fyllwN4Z_DiMWlfr7wyAg&usqp=CAU" group-title="LOKAL",RCTI HD (SDTV)
+https://mkctv.net/belacan/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/440px-CNN_Indonesia.svg.png" group-title="LOKAL",CNN INDONESIA HD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/02/4038359054.jpg" group-title="LOKAL",METRO TV HD
+http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-pikiran--rakyat-com.cdn.ampproject.org/ii/w820/s/assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/04/13/1699692591.jpg" group-title="LOKAL",TVRI SD
+http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="LOKAL",TVRI KANAL 3 SD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
