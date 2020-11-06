@@ -27,4 +27,34 @@ http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
 http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="LOKAL",TVRI KANAL 3 SD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZn-cI4MYjJn_rIQmltikLROiNjdGmRdkgcQ&usqp=CAU" group-title="LOKAL",SPORTONE SD
+http://103.130.186.138:8800/oxygenplay/sportone/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnVPqXaLaMS-koR87mdTBP9WCWLdw2uwmhw&usqp=CAU" group-title="LOKAL",DAAITV SD
+http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/34/IMC-TV.png/250px-IMC-TV.png" group-title="MOVIES",IMC SD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/IMC.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOeD2Tnm0t24SR6kjA_fXMbE7ynl93r1E1RQo1fz6jeNA3sKGLRC3NHek&s=10" group-title="KIDS",HOREE SD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/HoreeSD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" group-title="KIDS",NICKELODEON SD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/NickSD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", CARTOON NETWORK SD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/CNSD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="ENTERTAINMENT",S-ONE SD
+http://45.126.83.51/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="ENTERTAINMENT",TVN HD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/Tvn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="MOVIES",HBO SD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/HBOIDSD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="MOVIES",HBO HD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/HBOIDHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES SD
+http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="ENTERTAINMENT",KIX SD
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES",CELESTIAL MOVIES SD
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="MUSIK",POP MUSIK SD
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIK",MTV LIVE HD
+https://raw.githubusercontent.com/ibratabian17/AltosTV/main/Database/IPTV/Ibratabian17/MTVlive.m3u8
 
