@@ -43,6 +43,8 @@ https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/CNSD
 http://45.126.83.51/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="ENTERTAINMENT",TVN HD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/Tvn.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlDgwGOn7dolA9G2wjehdwrPm_cShHXJLhKQ&usqp=CAU" group-title="ENTERTAINMENT",TVN HD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/TvNMovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="MOVIES",HBO SD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/HBOIDSD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="MOVIES",HBO HD
@@ -50,11 +52,20 @@ https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/HBOI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES SD
 http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="ENTERTAINMENT",KIX SD
-http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+http://210.210.155.35:80/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES",CELESTIAL MOVIES SD
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="MUSIK",POP MUSIK SD
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIK",MTV LIVE HD
 https://raw.githubusercontent.com/ibratabian17/AltosTV/main/Database/IPTV/Ibratabian17/MTVlive.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCbQXKTj1GTsl9HYUwPLPPuqOT81Dd7dAgqQ&usqp=CAU" group-title="MUSIK",V HD
+https://raw.githubusercontent.com/ibratabian17/AltosTV/main/Database/IPTV/Ibratabian17/MTVlive.m3u8
+#EXTINF:-1 tvg-logo="http://hitmusic.hu/assets/images/hitlogo@2x.png" group-title="MUSIK",HITMUSIC HD
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="ENTERTAINMENT",SINEMA INDONESIA SD
+http://103.130.186.138:8800/oxygenplay/sinemaindonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="ENTERTAINMENT",SINEMA INDONESIA X SD
+http://103.130.186.138:8800/oxygenplay/sinemaindonesiax/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8DNWL8dFUfAbgD5HS6pzNZXfv9AtxuPviqQ&usqp=CAU" group-title="ENTERTAINMENT",ANIPLUS HD
+http://45.126.83.51/dr9445/h/h02/01.m3u8
