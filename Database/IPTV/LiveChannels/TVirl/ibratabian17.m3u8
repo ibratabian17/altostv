@@ -39,11 +39,13 @@ https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/Hore
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/NickSD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", CARTOON NETWORK SD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/CNSD.m3u8
+#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/03fca7cb-5767-4a0c-b830-0e9b6fad7402/image.png" group-title="ENTERTAINMENT",MOLA TV FREE HD
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="ENTERTAINMENT",S-ONE SD
 http://45.126.83.51/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="ENTERTAINMENT",TVN HD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/Tvn.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlDgwGOn7dolA9G2wjehdwrPm_cShHXJLhKQ&usqp=CAU" group-title="ENTERTAINMENT",TVN HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlDgwGOn7dolA9G2wjehdwrPm_cShHXJLhKQ&usqp=CAU" group-title="ENTERTAINMENT",TVN MOVIES HD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/TvNMovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="MOVIES",HBO SD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/HBOIDSD.m3u8
@@ -65,7 +67,11 @@ https://raw.githubusercontent.com/ibratabian17/AltosTV/main/Database/IPTV/Ibrata
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="ENTERTAINMENT",SINEMA INDONESIA SD
 http://103.130.186.138:8800/oxygenplay/sinemaindonesia/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="ENTERTAINMENT",SINEMA INDONESIA X SD
-http://103.130.186.138:8800/oxygenplay/sinemaindonesiax/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6bZhK5SO9L17tN5nJNSId-R_UXlUNvy9axQ&usqp=CAU" group-title="ENTERTAINMENT",SINEMA INDONESIA X SD
+http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8DNWL8dFUfAbgD5HS6pzNZXfv9AtxuPviqQ&usqp=CAU" group-title="ENTERTAINMENT",ANIPLUS HD
 http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBgOLwFebLVCOvJe4rJ_HL0gzEOjDbI_ZqQQ&usqp=CAU" group-title="ENTERTAINMENT",S-GEM SD
+http://45.126.83.51/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:National_Geographic_Channel.svg" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC HD
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/NatGeo.m3u8
