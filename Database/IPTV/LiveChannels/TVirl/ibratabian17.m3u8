@@ -77,7 +77,9 @@ http://45.126.83.51/uq2663/h/h19/01.m3u8
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/NatGeo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK HD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/AFN.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://qtxasset.com/fiercecable/1520431684/DiscoveryInc.jpg" group-title="KNOWLEDGE",DISCOVERY HD
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="LOKAL",SPACETOON SD
+http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
 #EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059453_logo_music%20tv.png" group-title="TESTING",MUSIC TV SD
 https://cdn-livetv2.metube.id/hls/musicchannel_480/index.m3u8
