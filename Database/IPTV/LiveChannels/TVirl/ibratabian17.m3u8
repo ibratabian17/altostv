@@ -90,8 +90,8 @@ https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/Disc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="LOKAL",SPACETOON
 http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DNFI TV 1 (SUB INDO)
-https://vsd118.mycdn.me/hls/917925661320.m3u8/sig/ltqXN4nL3_0/expires/1605347747076/srcIp/139.228.223.59/clientType/0/srcAg/CHROME_ANDROID/mid/2056306695816/917925661320_high/index.m3u8?p
-#EXTINF:-1 tvg-logo="" group-title="KIDS",DNFI TV 2 (DUB INDO)
 https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/DNFISI.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",DNFI TV 2 (DUB INDO)
+https://github.com/ibratabian17/AltosTV/raw/main/Database/IPTV/Ibratabian17/DNFIDI.m3u8
 #EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059453_logo_music%20tv.png" group-title="TESTING",MUSIC TV
 https://cdn-livetv2.metube.id/hls/musicchannel_480/index.m3u8
