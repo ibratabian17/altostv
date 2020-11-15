@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="LOKAL",TRANS7
 http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKcp-fgTWRqvnLb5ueat1d2WXkV8pPUYTa1Q&usqp=CAU" group-title="LOKAL",TRANSTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKcp-fgTWRqvnLb5ueat1d2WXkV8pPUYTa1Q&usqp=CAU" group-title="LOKAL",TransTV
 http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/400px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/index.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Antv_TV
